@@ -1,3 +1,5 @@
 /venv
 la_temperature.csv
 jsbchorales.pkl
+best_lstm.pth
+*.pkl
